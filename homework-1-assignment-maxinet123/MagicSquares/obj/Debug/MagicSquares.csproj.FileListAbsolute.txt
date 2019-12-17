@@ -1,0 +1,10 @@
+C:\Users\Maxine\Source\Repos\homework-1-assignment-maxinet123\MagicSquares\bin\Debug\MagicSquares.exe.config
+C:\Users\Maxine\Source\Repos\homework-1-assignment-maxinet123\MagicSquares\bin\Debug\MagicSquares.exe
+C:\Users\Maxine\Source\Repos\homework-1-assignment-maxinet123\MagicSquares\bin\Debug\MagicSquares.pdb
+C:\Users\Maxine\Source\Repos\homework-1-assignment-maxinet123\MagicSquares\obj\Debug\MagicSquares.Properties.Resources.resources
+C:\Users\Maxine\Source\Repos\homework-1-assignment-maxinet123\MagicSquares\obj\Debug\MagicSquares.UserInterface.resources
+C:\Users\Maxine\Source\Repos\homework-1-assignment-maxinet123\MagicSquares\obj\Debug\MagicSquares.csproj.GenerateResource.cache
+C:\Users\Maxine\Source\Repos\homework-1-assignment-maxinet123\MagicSquares\obj\Debug\MagicSquares.csproj.CoreCompileInputs.cache
+C:\Users\Maxine\Source\Repos\homework-1-assignment-maxinet123\MagicSquares\obj\Debug\MagicSquares.exe
+C:\Users\Maxine\Source\Repos\homework-1-assignment-maxinet123\MagicSquares\obj\Debug\MagicSquares.pdb
+C:\Users\Maxine\Source\Repos\homework-1-assignment-maxinet123\MagicSquares\obj\Debug\MagicSquares.csprojAssemblyReference.cache
